@@ -1,0 +1,47 @@
+body
+{
+    background-image: 100%;
+}
+.heading
+{
+    box-shadow: 5px 5px 5px rgb(41, 39, 39);
+    font-size: 30px;
+    width: 100%;
+    margin: 0px;
+}
+.heading_div
+{
+    background-color: white;
+    box-shadow: 5px 5px 5px rgb(41, 39, 39);
+    padding: 10px;
+    float: none;
+    color: black;
+    border-radius: 20px;
+    font-size: 23px;
+}
+.people_div
+{
+    font-size: 17px;
+}
+#footer
+{
+    position: fixed;
+    bottom: 0;
+    color: white;
+    background-color: gray;
+    text-align: center;
+    line-height: 3;
+    width: 100%;
+}
+.result_para_tag
+{
+    font-size: 20px;
+    box-shadow: 5px 5px 19px black;
+}
+canvas
+{
+margin-top: 150px;
+border: 3px solid white;
+box-shadow: 5px 5px 19px black;
+border-radius: 10px;
+}
